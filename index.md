@@ -4,24 +4,27 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Welcome to my homepage. My name is Essi Heikkinen and I am a first-year student at University of Helsinki. I 
+will probably major in Language Technology but I am very interested in Computer Science as well. 
+My favorite hobby is travelling and I like doing programming projects a lot too. In fact, at 
+the moment I am in Bangkok building this website which is quite an ideal combination for me.
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[LinkedIn](www.linkedin.com/in/essiheikkinen), [GitHub](https://github.com/essihe), [Online 
+CV](https://www.overleaf.com/read/zmnscdpjytcs)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+E-mail: essi.w.heikkinen@helsinki.fi 
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Introduction to Language Technology](https://courses.helsinki.fi/en/kik-405/124787882), fall 
+2018
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Student's digital skills](https://courses.helsinki.fi/fi/digi-000a/126214383), fall 2018
 
 ## Projects
 
 ## Misc. 
-
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
