@@ -4,7 +4,8 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me1.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Welcome to 
+<img src="assets/images/me2.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Welcome 
+to 
 my homepage. My name is Essi Heikkinen and I am a first-year student at University of Helsinki. I 
 will probably major in Language Technology but I am very interested in Computer Science as well. 
 My favorite hobby is travelling and I like doing programming projects a lot too. In fact, at 
