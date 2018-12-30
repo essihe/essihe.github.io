@@ -12,7 +12,8 @@ the moment I am in Bangkok building this website which is quite an ideal combina
 
 ## Find me on
 
-[LinkedIn](www.linkedin.com/in/essiheikkinen), [GitHub](https://github.com/essihe), [Online 
+[LinkedIn](https://www.linkedin.com/in/essiheikkinen), [GitHub](https://github.com/essihe), 
+[Online 
 CV](https://www.overleaf.com/read/zmnscdpjytcs)
 
 ## Contact
@@ -27,5 +28,8 @@ E-mail: essi.w.heikkinen@helsinki.fi
 [Student's digital skills](https://courses.helsinki.fi/fi/digi-000a/126214383), fall 2018
 
 ## Projects
+[cmdline-course](https://github.com/essihe/cmdline-course)
 
 ## Misc. 
+[Language Technology in Helsinki](https://blogs.helsinki.fi/language-technology/?lang=fi)
+
