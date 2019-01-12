@@ -30,6 +30,7 @@ E-mail: essi.w.heikkinen@helsinki.fi
 
 ## Projects
 [cmdline-course](https://github.com/essihe/cmdline-course)
+
 [regex_search] (https://github.com/essihe/regex_search)
 
 ## Misc. 
