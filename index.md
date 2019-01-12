@@ -14,8 +14,7 @@ the moment I am in Bangkok building this website which is quite an ideal combina
 ## Find me on
 
 [LinkedIn](https://www.linkedin.com/in/essiheikkinen), [GitHub](https://github.com/essihe), 
-[Online 
-CV](https://www.overleaf.com/read/zmnscdpjytcs)
+[CV](https://essihe.github.io/Resume_example-2.pdf)
 
 ## Contact
 
